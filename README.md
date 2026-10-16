@@ -1,14 +1,10 @@
-\# Week 1 — Data Analysis Project
+\Week 1 — Data Analysis Project
 
-
-
-\## Overview
+\Overview
 
 This project focuses on exploring, cleaning, analyzing, and validating datasets using Python, Pandas, and SQL.
 
-
-
-\## Project Structure
+\Project Structure
 
 \- `data/raw/` — Original datasets. Never modify these files.
 
@@ -24,11 +20,7 @@ This project focuses on exploring, cleaning, analyzing, and validating datasets 
 
 
 
-\## Datasets
-
-Large dataset files are kept locally and are not uploaded to GitHub.
-
-
+\ Datasets
 
 \- Sample Superstore: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
@@ -38,25 +30,4 @@ Large dataset files are kept locally and are not uploaded to GitHub.
 
 
 
-\## Requirements
-
-Install the required Python packages using:
-
-
-
-```bash
-
-pip install -r requirements.txt
-
-```
-
-
-
-\## Current Progress
-
-\- Initial dataset setup completed.
-
-\- Initial inspection of the Superstore dataset completed.
-
-\- Further cleaning and analysis will be documented as the project progresses.
 
