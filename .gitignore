@@ -1,6 +1,4 @@
-# Raw and cleaned datasets
-data/raw/
-data/clean/
+
 
 # Python cache files
 __pycache__/

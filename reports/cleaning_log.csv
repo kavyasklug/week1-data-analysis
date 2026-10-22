@@ -1,0 +1,5 @@
+Issue,Action,Reason,Rows affected
+Leading/trailing whitespace in Product Name,Removed leading/trailing whitespace,Prevent inconsistent product-name grouping,16
+Order Date stored as object,Converted to datetime,Enable reliable date operations,9994
+Ship Date stored as object,Converted to datetime,Enable reliable date operations,9994
+Postal Code stored as numeric,Converted to string,"Treat postal codes as identifiers, not quantities",9994
